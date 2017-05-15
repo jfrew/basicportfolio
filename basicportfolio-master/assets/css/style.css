@@ -1,0 +1,18 @@
+body {
+	background-image: url(/assets/images/background/pixweavex2.png);
+	background-color: #cccccc;
+}
+
+
+#header{
+	background-color: black;
+	text-align: left;
+	padding: 40px;
+	float:left;
+
+
+}
+
+#wrapper{
+
+}

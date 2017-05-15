@@ -1,0 +1,141 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+h1 {
+  text-align: left;
+  color: #008080;
+}
+h2 {
+  text-align: left;
+  font-size: 25px;
+  color: #008080;
+}
+body {
+  background: url(pixweavex2.png);
+  font-size: 24px;
+  line-height: 32px;
+  color: #333;
+}
+header {
+  padding: 20px;
+  margin-bottom: 20px;
+  color: #333;
+  background: #ccc;
+}
+section {
+  padding: 20px;
+  margin-bottom: 20px;
+  background: #ccc;
+}
+.leftspacer {
+  float: left;
+  width: 10%;
+  color: #fff;
+  background: #F0EAD6;
+  color:#F0EAD6;
+}
+.midspacer {
+  float: left;
+  width: 45%;
+  color: #fff;
+  background: #F0EAD6;
+  color:#F0EAD6;
+}
+#name {
+  float: left;
+  width: 20%;
+  color: #fff;
+  background: #008080;
+  font-size: 30px;
+}
+
+.linkbox {
+  float: left;
+  width: 7%;
+  color: #fff;
+  background: #666;
+  font-size: 16px;
+  background: #F0EAD6;
+  color:#F0EAD6;
+}
+#linkboxcent {
+  float: left;
+  width: 7%;
+  color: #fff;
+  background: #666;
+  font-size: 16px;
+  border-left: 1px;
+  border-right: 1px;
+    background: #F0EAD6;
+  color:#F0EAD6;
+
+}
+.headertext {
+  float:center;
+  border-bottom: 2px solid;
+  width:100%;
+}
+#full {
+  width: 100%;
+  overflow: auto;
+  clear: both;
+  background: #eee;
+}
+#division {
+  padding: 20px;
+  margin-top: 20px;
+  background: #6ea3da;
+}
+.bioleft {
+  float: left;
+  width: 50%;
+  height: 400px;
+  padding: 20px;
+  margin-top: 40px;
+  margin-left: 70px;
+  margin-bottom: 50px;
+  background: #fff;
+  border: 1px solid #eee;
+}
+.contactright {
+  float: right;
+  width: 20%;
+  height: 200px;
+  padding: 20px;
+  margin-top: 40px;
+  margin-right: 200px;
+  margin-bottom: 50px;
+  background: #fff;
+  border: 1px solid #eee;
+}
+#biocontent{
+  margin-top: 10px;
+}
+.icons{
+  margin-top: 10px;
+}
+.github{
+  margin: 10px;
+}
+footer {
+  padding: 20px;
+  clear: both;
+  background: #ccc;
+  font-size: 10px;
+}
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px; 
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+}
+.container {
+    width: 80%;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
